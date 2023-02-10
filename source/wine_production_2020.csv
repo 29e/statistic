@@ -1,0 +1,58 @@
+region,wine_production,vineyard_surface_area,country
+Italia,49908499,651078,Italia
+Lombardia,1475558,21997,Italia
+Veneto,10825695,93945,Italia
+Puglia,9763617,86569,Italia
+Emilia-Romagna,6658533,49755,Italia
+Sicilia,4465289,113283,Italia
+Abruzzo,2886557,29530,Italia
+Toscana,2602973,55535,Italia
+Piemonte,2570511,41768,Italia
+Friuli-Venezia Giulia,1624001,26473,Italia
+Lazio,1449772,20150,Italia
+Campania,1403387,24726,Italia
+Trentino Alto Adige,1132644,14960,Italia
+Marche,932070,15501,Italia
+Umbria,643555,12100,Italia
+Sardegna,602000,26709,Italia
+Molise,401501,5375,Italia
+Calabria,280401,8754,Italia
+Basilicata,90671,1960,Italia
+Liguria,78864,1618,Italia
+Valle d'Aosta,20900,370,Italia
+Spain,40230000,944478,Other
+United States,27183176,408000,Other
+South Africa,8980000,92005,Other
+Germany,8410000,103180,Other
+Portugal,6061243,190322,Other
+Romania,5088100,171100,Other
+Hungary,2900000,59000,Other
+Greece,2500000,49504,Other
+Austria,2398409,46164,Other
+Georgia,2000000,55000,Other
+Bulgaria,892017,47001,Other
+Slovenia,735000,15261,Other
+Croatia,704000,18648,Other
+Uruguay,694813,5991,Other
+Switzerland,668951,10908,Other
+Canada,591000,12565,Other
+Japan,177750,2260,Other
+Luxembourg,96858,1236,Other
+United Kingdom,65250,3018,Other
+Argentine,,214798,Other
+Chile,,136289,Other
+Moldova,,68000,Other
+France,45785051,752935,France
+Languedoc-Roussillon,11549905,197606,France
+Bordeaux,4885511,114868,France
+Sud Ouest,3633650,54950,France
+Loire,3152423,57955,France
+Côtes du Rhône,2710072,66572,France
+Champagne,2097044,33050,France
+Provence,1986953,39653,France
+Bourgogne,1450000,30052,France
+Alsace-Lorraine,975870,15692,France
+Beaujolais,800000,14492,France
+Corsica,376046,6049,France
+Jura,122356,2080,France
+Savoie,90486,2168,France
